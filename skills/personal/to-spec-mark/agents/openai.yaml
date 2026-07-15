@@ -1,0 +1,4 @@
+interface:
+  display_name: "To Spec Mark"
+  short_description: "Draft Mark-style specifications safely"
+  default_prompt: "Use $to-spec-mark to turn the settled context into a conversation-only specification draft or gap report."
